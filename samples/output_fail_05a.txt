@@ -1,0 +1,2 @@
+Error: there is semantic error(s).
+[Error] Condition of if or while statement should be bool value.
